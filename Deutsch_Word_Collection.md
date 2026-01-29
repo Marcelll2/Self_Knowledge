@@ -10,11 +10,3 @@
 | probieren                 | 尝试   |
 | Ballons                   | 气球   |
 | alles Gute zum Gebrutstag | 生日快乐 |
-
-
-
-
-
-
-
-

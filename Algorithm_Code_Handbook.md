@@ -7,11 +7,7 @@ print(f'hello')
 
 # Dynamic_Programming
 
-
-
 # _String
-
-
 
 # Diffcult_Company_Code_Problem
 
@@ -25,14 +21,6 @@ This is a variant of the **edit distance** problem, with an additional rule: if 
 
 - The total cost of 2 consecutive substitutions is 1+0=1
 
-
-
 ### Huawei
 
-
-
 ### Meituan
-
-
-
-
