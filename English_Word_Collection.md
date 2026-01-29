@@ -4,8 +4,6 @@
 
 ### Meadow + Dessert + Pond
 
-
-
 | noun                    | chinese                | phrase                          |              |
 | ----------------------- | ---------------------- | ------------------------------- | ------------ |
 | meadow                  | 牧场                     |                                 |              |
@@ -46,80 +44,75 @@
 | venom                   | 毒液                     | （动）使有毒                          |              |
 | squirrel                | 松鼠                     |                                 |              |
 | owl                     | 鸮，猫头鹰                  |                                 |              |
-| predator                | 捕食性动物； 掠夺者             |                                 |              |
+| predator                | 捕食性动物； <br>掠夺者         |                                 |              |
 | quail                   | 鹑，鹌鹑                   |                                 |              |
 | tongue                  | 舌头                     |                                 |              |
 | tadpole                 | 蝌蚪                     |                                 |              |
 | migration               | 迁移                     | migrate                         | 迁移           |
 
- 
+| Adj         | chinese           | phrase             |        |
+| ----------- | ----------------- | ------------------ | ------ |
+| cozy        | 舒适的               | cozy bad           | 舒适的床   |
+| prehensile  | 可以抓握的             |                    |        |
+| vital       | 至关重要的             |                    |        |
+| bumble      | 形容蜜蜂嗡嗡声           |                    |        |
+| airborne    | 空运的，升空            | get airborne       | 起飞     |
+| enormous    | 巨大的庞大的            |                    |        |
+| deserted    | 被遗弃的，无人居住的        |                    |        |
+| selfish     | 自私的               | selfle             | 无私的    |
+| voracious   | 贪婪的；<br>贪吃的；狼吞虎咽的 |                    |        |
+| insatiable  | 无法满足的，贪得无厌的       |                    |        |
+| astonishing | 惊人的               | （动）使惊讶             |        |
+| brutal      | 野蛮的，凶残的，糟糕的       |                    |        |
+| unforgiving | 不原谅人的；不宽恕人的       | unforgiving land   | 残酷的世界  |
+| ravenous    | 贪婪的               |                    |        |
+| venomous    | 有毒的               |                    |        |
+| risky       | 有危险的，有风险的         |                    |        |
+| unscathed   | 未受伤的              |                    |        |
+| whopping    | 惊人的               | whopping 60 meters | 惊人的60米 |
 
-| Adj         | chinese       | phrase             |        |
-| ----------- | ------------- | ------------------ | ------ |
-| cozy        | 舒适的           | cozy bad           | 舒适的床   |
-| prehensile  | 可以抓握的         |                    |        |
-| vital       | 至关重要的         |                    |        |
-| bumble      | 形容蜜蜂嗡嗡声       |                    |        |
-| airborne    | 空运的，升空        | get airborne       | 起飞     |
-| enormous    | 巨大的庞大的        |                    |        |
-| deserted    | 被遗弃的，无人居住的    |                    |        |
-| selfish     | 自私的           | selfle             | 无私的    |
-| voracious   | 贪婪的；贪吃的；狼吞虎咽的 |                    |        |
-| insatiable  | 无法满足的，贪得无厌的   |                    |        |
-| astonishing | 惊人的           | （动）使惊讶             |        |
-| brutal      | 野蛮的，凶残的，糟糕的   |                    |        |
-| unforgiving | 不原谅人的；不宽恕人的   | unforgiving land   | 残酷的世界  |
-| ravenous    | 贪婪的           |                    |        |
-| venomous    | 有毒的           |                    |        |
-| risky       | 有危险的，有风险的     |                    |        |
-| unscathed   | 未受伤的          |                    |        |
-| whopping    | 惊人的           | whopping 60 meters | 惊人的60米 |
-
-
-
-| verb        | chinese                     | phrase          |         |
-| ----------- | --------------------------- | --------------- | ------- |
-| afford      | 负担得起                        | afford to sleep | 睡得着睡得起  |
-| forage      | 觅食                          |                 |         |
-| feast       | 尽情享用                        |                 |         |
-| hovering    | 悬停悬浮盘旋                      |                 |         |
-| spot        | 发现认出                        |                 |         |
-| emerge      | 出现显露                        |                 |         |
-| venture     | 大胆冒险                        |                 |         |
-| lurk        | 潜伏潜藏                        |                 |         |
-| encounter   | 遭遇遇见                        |                 |         |
-| vacate      | 腾空空出                        |                 |         |
-| strike      | 袭击进攻                        | 击，撞             |         |
-| assassin    | 暗杀者，刺客                      |                 |         |
-| outmaneuver | 运用策略击败                      |                 |         |
-| outnumber   | 数量上超过                       |                 |         |
-| overrun     | 侵占；攻占                       | （数量上）充斥；泛滥      |         |
-| decimate    | 大批杀害，大量毁灭                   |                 |         |
-| prick       | 扎，戳；使（身体某部位）刺痛              | prickly         | 多刺的；刺痛的 |
-| chew        | 咀嚼，嚼碎                       |                 |         |
-| rattle      | （使）咯咯作响                     | rattlesnake     | 响尾蛇     |
-| patrol      | （尤指士兵或员警）巡逻，巡查；（尤指威胁性）逛荡，闲逛 |                 |         |
-| camouflage  | 掩饰；伪装                       | （名）（军事上的）伪装，隐蔽  |         |
-| patch       | 修补，缝补                       | （名）补丁，补片        |         |
-
-
+| verb        | chinese                        | phrase          |             |
+| ----------- | ------------------------------ | --------------- | ----------- |
+| afford      | 负担得起                           | afford to sleep | 睡得着睡得起      |
+| forage      | 觅食                             |                 |             |
+| feast       | 尽情享用                           |                 |             |
+| hovering    | 悬停悬浮盘旋                         |                 |             |
+| spot        | 发现认出                           |                 |             |
+| emerge      | 出现显露                           |                 |             |
+| venture     | 大胆冒险                           |                 |             |
+| lurk        | 潜伏潜藏                           |                 |             |
+| encounter   | 遭遇遇见                           |                 |             |
+| vacate      | 腾空空出                           |                 |             |
+| strike      | 袭击进攻                           | 击，撞             |             |
+| assassin    | 暗杀者，刺客                         |                 |             |
+| outmaneuver | 运用策略击败                         |                 |             |
+| outnumber   | 数量上超过                          |                 |             |
+| overrun     | 侵占；攻占                          | （数量上）充斥；泛滥      |             |
+| decimate    | 大批杀害，大量毁灭                      |                 |             |
+| prick       | 扎，戳；使（身体某部位）刺痛                 | prickly         | 多刺的；<br>刺痛的 |
+| chew        | 咀嚼，嚼碎                          |                 |             |
+| rattle      | （使）咯咯作响                        | rattlesnake     | 响尾蛇         |
+| patrol      | （尤指士兵或员警）巡逻，巡查<br>（尤指威胁性）逛荡，闲逛 |                 |             |
+| camouflage  | 掩饰；伪装                          | （名）（军事上的）伪装，隐蔽  |             |
+| patch       | 修补，缝补                          | （名）补丁，补片        |             |
 
 ### Rainforest
-
-
-
-
-
-
 
 ## TOEIC_990_Core_Words
 
 ### B_
 
-
-
 ### C_
 
-
-
 ### T_
+
+
+
+## Self_Collection
+
+### Program
+
+|         |                                |                                                                |
+| ------- | ------------------------------ | -------------------------------------------------------------- |
+| literal | n. 字面量<br>adj. 字面的；逐字的；如实的<br> | literal translation → 直译（逐字翻译）<br>string literal → 字符串字面量 <br> |
+|         |                                |                                                                |
