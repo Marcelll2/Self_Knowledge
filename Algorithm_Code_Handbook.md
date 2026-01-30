@@ -33,9 +33,7 @@ print(f'hello')
 
 ![logo](C:\Users\51183\Desktop\Self_Knowledge\data\Algorithm\Double_Pointer\93.png)
 
-$$
 
-$$
 
 # Diffcult_Company_Code_Problem
 
