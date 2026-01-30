@@ -31,7 +31,7 @@ print(f'hello')
 
 如输入的height为[1,7,3,2,4,5,8,2,7]，那么如下图:
 
-![adfdf](C:\Users\51183\Desktop\Self_Knowledge\data\Algorithm\Double%20Pointer\93.png)
+![adfdf](data\Algorithm\Double%20Pointer\93.png)
 
 # Diffcult_Company_Code_Problem
 
