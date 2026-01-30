@@ -104,16 +104,29 @@
 
 ### C_
 
-|            |                      |     |     |
-| ---------- | -------------------- | --- | --- |
-| chase      | n 追逐，追求<br/>v 追赶， 追求 |     |     |
-| chronic    | adj （疾病）慢性的；（问题）顽固的  |     |     |
-| civilian   |                      |     |     |
-| colonial   |                      |     |     |
-| concession |                      |     |     |
-|            |                      |     |     |
+|              |                      |     |
+| ------------ | -------------------- | --- |
+| chase        | n 追逐，追求<br/>v 追赶， 追求 |     |
+| chronic      | adj （疾病）慢性的；（问题）顽固的  |     |
+| civilian     | n 公民                 |     |
+| colonial     | adj 殖民地的             |     |
+| concession   |                      |     |
+| consecutive  | adj 连贯的，连续的          |     |
+| constitution | n 宪法，章程              |     |
+| corporation  | n 合作                 |     |
+| count        | （少）v 认为              |     |
+| cut          | （少）n 伤口              |     |
+|              |                      |     |
 
+### D_
 
+|         |                   |
+| ------- | ----------------- |
+| default | n 默认值<br/>v 违约，拖欠 |
+| daunt   | v 使气馁             |
+| deficit | n 亏空              |
+| deal    | n 交易<br/>v 对待     |
+| dangle  | vi 悬荡             |
 
 
 
